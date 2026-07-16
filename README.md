@@ -1,0 +1,1 @@
+Full self-contained Termux port of TTF Forge v12.1 + PMAE v1.1. See INSTALL_TERMUX.md for build.
